@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <link rel="stylesheet" href="Untitled-2.css">
+<link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,800,800italic,900,900italic" rel="stylesheet" />
+    <title>Alibook</title>
+    <link rel="shortcut icon" type="image/png" href="icons8.png">
+</head>
+
+
+<body bgcolor="#DFCBFF">
+  <div>
+    <button class="yellow"></button>
+  <button class="white"> </button>
+  <p class="white1">пошук</p>
+  <button class="alibook"></button>
+  <p class="alibook1">Alibook</p>
+  <button class="knigi"></button>
+  <p class="knigi11">Категорії книг</p>
+  <button class="knigi2"></button>
+  <p class="knigi22"> Друковані книги</p>
+  <button class="knigi3"></button>
+  <p class="knigi33">Електронні книги</p>
+  <button class="knigi4"></button>
+  <p class="knigi44">Аудіокниги</p>
+  <button class="hobbi"></button>
+  <p class="hobbi1"> Творчість, хобі</p>
+  <button class="aks"></button>
+  <p class="aks1"> Книжкові аксесуари</p>
+  <button class="akcz"></button>
+  <p class="akcz1">Акції</p>
+  <button class="sert"></button>
+  <p class="sert1">Сертифікати </p>
+  <button class="dost"></button>
+  <p class="dost1"> Доставка та оплата</p>
+  <button class="kontkt"></button>
+  <p class="kontkt1">Контакти</p>
+  <button class="znu"></button>
+   <p class="znu1">Знижки</p>
+  <button class="new"></button>
+  <p class="new1">Новинки</p>
+  <button class="popul"></button>
+  <p class="popul1">Популярні</p>
+ 
+
+
+  <button class="okno1">
+
+    <button class="grow"></button>
+    <button class="yellowokno"></button>
+    <p class="yo">Вас може зацікавити</p>
+    <button class="popy1"></button>
+  </button> 
+  <img src="grow1.jpg" alt="" class="grow2">
+  <img src="popy war.jpg" alt="" class="popy2">
+  <p  class="groww">
+    <br>Шістка воронів
+    <br>Лі Бардуго
+    <br>350 грн 
+  </p>
+  <p class="popy3">
+    <br>Опіумна війна
+    <br>Ребекка Кван
+    <br>250 грн
+  </p>
+
+  <button class="okno2">
+    <button class="groww2"></button>
+    <button class="popy22"></button>
+    <button class="do"></button>
+  </button> 
+  <p  class="growwww">
+    <br>Шістка воронів
+    <br>Лі Бардуго
+    <br>350 грн
+  </p>
+
+  <p class="popy333">
+    <br>Опіумна війна
+    <br>Ребекка Кван
+    <br>250 грн
+  </p>
+  <p  class="od2">
+    <br>Гордість та упередження
+    <br>Джейн Остен
+    <br>190 грн
+  </p>
+
+   <button class="yellowokno2"></button>
+<img src="grow1.jpg" class="ggrow" alt="">
+<img src="popy war.jpg" class="ppopy2" alt="">
+<img src="op3.jpg" class="od1" alt="">
+
+
+ <p class="yoo">Популярне</p>
+  <button class="theand"></button>
+  <p class="and">
+    <br>   Мобільний застосунок
+<br>
+<br> Читайте і прослуховуйте книжки у найбільшій бібліотеці електронних та аудіокниг від топових українських і світових авторів
+  </p>
+ <img src="image 5.jpg" class="img5" alt="">
+ <img src="image 6.jpg" alt="" class="img6">
+ <p class="ppp">
+ <br> Безкоштовно по Україні
+<br> 0-800-335-425
+<br> Без вихідних, з 8 до 21
+<br>
+044-333-8530
+ <br> Безкоштовно по Києву зі стаціонарних телефонів
+ </p>
+ <img src="Group 7.png" class="group7" alt="">
+ <img src="Group 6.png" class="group6" alt="">
+ <a href="Davydenko2.html"><img src="Subtract.png" class="group8" alt=""></a>
+  </div>
+  
+
+</body>
+</html>
